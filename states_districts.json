@@ -1,5 +1,5 @@
 {  
-   "Andhra Pradesh":[  
+   "Andhra_Pradesh":[  
             "Anantapur",
             "Chittoor",
             "East Godavari",
@@ -14,7 +14,7 @@
             "West Godavari",
             "YSR Kadapa"
          ],
-   "Arunachal Pradesh":[  
+   "Arunachal_Pradesh":[  
             "Tawang",
             "West Kameng",
             "East Kameng",
@@ -112,7 +112,7 @@
             "Vaishali",
             "West Champaran"
          ],
-      "Chandigarh (UT)":[  
+      "Chandigarh":[  
             "Chandigarh"
          ],
       "Chhattisgarh":[  
@@ -144,14 +144,14 @@
             "Surajpur  ",
             "Surguja"
          ],
-      "Dadra and Nagar Haveli":[  
+      "Dadra_and_Nagar Haveli":[  
             "Dadra & Nagar Haveli"
          ],
-      "Daman and Diu":[  
+      "Daman_and_Diu":[  
             "Daman",
             "Diu"
          ],
-      "Delhi (NCT)":[  
+      "Delhi_(NCT)":[  
             "Central Delhi",
             "East Delhi",
             "New Delhi",
@@ -227,7 +227,7 @@
             "Sonipat",
             "Yamunanagar"
          ],
-      "Himachal Pradesh":[  
+      "Himachal_Pradesh":[  
             "Bilaspur",
             "Chamba",
             "Hamirpur",
@@ -241,7 +241,7 @@
             "Solan",
             "Una"
          ],
-      "Jammu and Kashmir":[  
+      "Jammu_and_Kashmir":[  
             "Anantnag",
             "Bandipore",
             "Baramulla",
@@ -351,7 +351,7 @@
             "Kilthan",
             "Minicoy"
          ],
-      "Madhya Pradesh":[  
+      "Madhya_Pradesh":[  
             "Agar Malwa",
             "Alirajpur",
             "Anuppur",
@@ -599,7 +599,7 @@
             "South Sikkim",
             "West Sikkim"
          ],
-      "Tamil Nadu":[  
+      "Tamil_Nadu":[  
             "Ariyalur",
             "Chennai",
             "Coimbatore",
@@ -691,7 +691,7 @@
             "Udham Singh Nagar",
             "Uttarkashi"
          ],
-      "Uttar Pradesh":[  
+      "Uttar_Pradesh":[  
             "Agra",
             "Aligarh",
             "Allahabad",
@@ -768,7 +768,7 @@
             "Unnao",
             "Varanasi"
          ],
-      "West Bengal":[  
+      "West_Bengal":[  
             "Alipurduar",
             "Bankura",
             "Birbhum",
